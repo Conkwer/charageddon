@@ -6,7 +6,7 @@ characters (Character.AI exposes at most 10), or the whole account with
 archived chats) as SillyTavern-friendly `.jsonl` / `.html` files.
 
 It have the exe for Windows, if you need it. Linux and AI agents can use a CLI.
-This is on Python 3.14, so in theory you can run it everywhere that can handle 
+This is on Python 3.14, so in theory you can run it everywhere what can handle 
 Python 3.14, Android Termux included. 
 
 ## Status: frozen snapshot (2026-11-14)

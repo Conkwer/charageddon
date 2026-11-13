@@ -1,4 +1,4 @@
-# charageddon
+# CharAgeddon
 
 Local backup of **your own** Character.AI account: by default only your liked
 characters (Character.AI exposes at most 10), or the whole account with

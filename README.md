@@ -5,6 +5,10 @@ characters (Character.AI exposes at most 10), or the whole account with
 `--all`. Saves Tavern V2 cards, avatars, lorebooks, and chats (including
 archived chats) as SillyTavern-friendly `.jsonl` / `.html` files.
 
+It have the exe for Windows, if you need it. Linux and AI agents can use a CLI.
+This is on Python 3.14, so in theory you can run it everywhere that can handle 
+Python 3.14, Android Termux included. 
+
 ## Status: frozen snapshot (2026-11-14)
 
 As of **2026-11-14** the script works the same way your browser does: it reads

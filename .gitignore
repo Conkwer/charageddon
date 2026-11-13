@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+export/
+test-export/
+pages/
+*.token
+token.txt
+.env
+*.zip
+settings.ini
+build/
+dist/
+*.spec

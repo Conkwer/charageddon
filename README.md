@@ -198,9 +198,6 @@ raise `--rate` (e.g. `--rate 1.0`).
 - Default mode exports only the liked list; created or chatted-with
   characters require `--all`.
 - Desktop only. Android/iOS cannot run this or a desktop extension.  
-  
-# Tags  
-export characters, sillytavern, ai, how to backup characters
 - Chat search, liked-list expansion beyond 10, and account enumeration for
   other users are out of scope by design.
 

@@ -1,5 +1,8 @@
 # CharAgeddon
 
+Note: This tool only exports your own account data and is not affiliated with   
+Character.AI  
+  
 Local backup of **your own** Character.AI account: by default only your liked
 characters (Character.AI exposes at most 10), or the whole account with
 `--all`. Saves Tavern V2 cards, avatars, lorebooks, and chats (including

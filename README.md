@@ -1,7 +1,10 @@
 # CharAgeddon
 
 Note: This tool only exports your own account data and is not affiliated with Character.AI  
+Character.AI provides official data export functionality; using official channels is the safest method (Settings → Account → Manage Account & Data → Export Data -> wait for a ~week). But those emails often never arrive, and even when they do the format is pretty useless for most people. That's why this tool exists.  
   
+# What it do  
+   
 Local backup of **your own** Character.AI account: by default only your liked
 characters (Character.AI exposes at most 10), or the whole account with
 `--all`. Saves Tavern V2 cards, avatars, lorebooks, and chats (including

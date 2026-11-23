@@ -2,6 +2,7 @@
 
 Note: This tool only exports your own account data and is not affiliated with Character.AI  
 Character.AI provides official data export functionality; using official channels is the safest method (Settings → Account → Manage Account & Data → Export Data -> wait for a ~week). But those emails often never arrive, and even when they do the format is pretty useless for most people. That's why this tool exists.  
+Use at your own risk. Automated access may break Character.AI's rules, and your account could get limited or banned.  
   
 # What it do  
    
